@@ -669,6 +669,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -676,12 +689,12 @@ TextureImporter:
       name: Archer-Green_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
+        x: 9
+        y: 233
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -698,12 +711,12 @@ TextureImporter:
       name: Archer-Green_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 224
-        width: 32
-        height: 32
+        x: 41
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -720,12 +733,12 @@ TextureImporter:
       name: Archer-Green_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 224
-        width: 32
-        height: 32
+        x: 73
+        y: 232
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -742,12 +755,12 @@ TextureImporter:
       name: Archer-Green_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 224
-        width: 32
-        height: 32
+        x: 105
+        y: 232
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -764,12 +777,12 @@ TextureImporter:
       name: Archer-Green_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224
-        width: 32
-        height: 32
+        x: 136
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -786,12 +799,12 @@ TextureImporter:
       name: Archer-Green_5
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224
-        width: 32
-        height: 32
+        x: 168
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -808,12 +821,12 @@ TextureImporter:
       name: Archer-Green_6
       rect:
         serializedVersion: 2
-        x: 192
-        y: 224
-        width: 32
-        height: 32
+        x: 201
+        y: 232
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -830,12 +843,12 @@ TextureImporter:
       name: Archer-Green_7
       rect:
         serializedVersion: 2
-        x: 224
-        y: 224
-        width: 32
-        height: 32
+        x: 233
+        y: 233
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -852,12 +865,12 @@ TextureImporter:
       name: Archer-Green_8
       rect:
         serializedVersion: 2
-        x: 256
-        y: 224
-        width: 32
-        height: 32
+        x: 265
+        y: 232
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -874,12 +887,12 @@ TextureImporter:
       name: Archer-Green_9
       rect:
         serializedVersion: 2
-        x: 288
-        y: 224
-        width: 32
-        height: 32
+        x: 297
+        y: 232
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -896,12 +909,12 @@ TextureImporter:
       name: Archer-Green_10
       rect:
         serializedVersion: 2
-        x: 320
-        y: 224
-        width: 32
-        height: 32
+        x: 329
+        y: 232
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -918,12 +931,12 @@ TextureImporter:
       name: Archer-Green_11
       rect:
         serializedVersion: 2
-        x: 352
-        y: 224
-        width: 32
-        height: 32
+        x: 361
+        y: 233
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -940,12 +953,12 @@ TextureImporter:
       name: Archer-Green_12
       rect:
         serializedVersion: 2
-        x: 384
-        y: 224
-        width: 32
-        height: 32
+        x: 392
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -962,12 +975,12 @@ TextureImporter:
       name: Archer-Green_13
       rect:
         serializedVersion: 2
-        x: 416
-        y: 224
-        width: 32
-        height: 32
+        x: 424
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -984,12 +997,12 @@ TextureImporter:
       name: Archer-Green_14
       rect:
         serializedVersion: 2
-        x: 448
-        y: 224
-        width: 32
-        height: 32
+        x: 457
+        y: 229
+        width: 14
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1006,12 +1019,12 @@ TextureImporter:
       name: Archer-Green_15
       rect:
         serializedVersion: 2
-        x: 480
-        y: 224
-        width: 32
-        height: 32
+        x: 489
+        y: 233
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1028,12 +1041,12 @@ TextureImporter:
       name: Archer-Green_16
       rect:
         serializedVersion: 2
-        x: 512
-        y: 224
-        width: 32
-        height: 32
+        x: 521
+        y: 233
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1050,12 +1063,12 @@ TextureImporter:
       name: Archer-Green_17
       rect:
         serializedVersion: 2
-        x: 544
-        y: 224
-        width: 32
-        height: 32
+        x: 553
+        y: 233
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1072,12 +1085,12 @@ TextureImporter:
       name: Archer-Green_18
       rect:
         serializedVersion: 2
-        x: 576
-        y: 224
-        width: 32
-        height: 32
+        x: 585
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1094,12 +1107,12 @@ TextureImporter:
       name: Archer-Green_19
       rect:
         serializedVersion: 2
-        x: 608
-        y: 224
-        width: 32
-        height: 32
+        x: 616
+        y: 234
+        width: 16
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1116,12 +1129,12 @@ TextureImporter:
       name: Archer-Green_20
       rect:
         serializedVersion: 2
-        x: 640
-        y: 224
-        width: 32
-        height: 32
+        x: 648
+        y: 233
+        width: 16
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1138,12 +1151,12 @@ TextureImporter:
       name: Archer-Green_21
       rect:
         serializedVersion: 2
-        x: 672
-        y: 224
-        width: 32
-        height: 32
+        x: 681
+        y: 233
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1160,12 +1173,12 @@ TextureImporter:
       name: Archer-Green_22
       rect:
         serializedVersion: 2
-        x: 704
-        y: 224
-        width: 32
-        height: 32
+        x: 711
+        y: 233
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1182,12 +1195,12 @@ TextureImporter:
       name: Archer-Green_23
       rect:
         serializedVersion: 2
-        x: 736
-        y: 224
-        width: 32
-        height: 32
+        x: 744
+        y: 233
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1204,12 +1217,12 @@ TextureImporter:
       name: Archer-Green_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
-        width: 32
-        height: 32
+        x: 9
+        y: 201
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1226,12 +1239,12 @@ TextureImporter:
       name: Archer-Green_25
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192
-        width: 32
-        height: 32
+        x: 41
+        y: 201
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1248,12 +1261,12 @@ TextureImporter:
       name: Archer-Green_26
       rect:
         serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
+        x: 73
+        y: 200
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1270,12 +1283,12 @@ TextureImporter:
       name: Archer-Green_27
       rect:
         serializedVersion: 2
-        x: 96
-        y: 192
-        width: 32
-        height: 32
+        x: 105
+        y: 200
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1292,12 +1305,12 @@ TextureImporter:
       name: Archer-Green_28
       rect:
         serializedVersion: 2
-        x: 128
-        y: 192
-        width: 32
-        height: 32
+        x: 136
+        y: 201
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1314,12 +1327,12 @@ TextureImporter:
       name: Archer-Green_29
       rect:
         serializedVersion: 2
-        x: 160
-        y: 192
-        width: 32
-        height: 32
+        x: 168
+        y: 201
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1336,12 +1349,12 @@ TextureImporter:
       name: Archer-Green_30
       rect:
         serializedVersion: 2
-        x: 192
-        y: 192
-        width: 32
-        height: 32
+        x: 201
+        y: 201
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1358,12 +1371,12 @@ TextureImporter:
       name: Archer-Green_31
       rect:
         serializedVersion: 2
-        x: 224
-        y: 192
-        width: 32
-        height: 32
+        x: 233
+        y: 201
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1380,12 +1393,12 @@ TextureImporter:
       name: Archer-Green_32
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 32
-        height: 32
+        x: 265
+        y: 201
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1402,12 +1415,12 @@ TextureImporter:
       name: Archer-Green_33
       rect:
         serializedVersion: 2
-        x: 288
-        y: 192
-        width: 32
-        height: 32
+        x: 297
+        y: 200
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1424,12 +1437,12 @@ TextureImporter:
       name: Archer-Green_34
       rect:
         serializedVersion: 2
-        x: 320
-        y: 192
-        width: 32
-        height: 32
+        x: 329
+        y: 200
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1446,12 +1459,12 @@ TextureImporter:
       name: Archer-Green_35
       rect:
         serializedVersion: 2
-        x: 352
-        y: 192
-        width: 32
-        height: 32
+        x: 361
+        y: 201
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1468,12 +1481,12 @@ TextureImporter:
       name: Archer-Green_36
       rect:
         serializedVersion: 2
-        x: 384
-        y: 192
-        width: 32
-        height: 32
+        x: 392
+        y: 201
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1490,12 +1503,12 @@ TextureImporter:
       name: Archer-Green_37
       rect:
         serializedVersion: 2
-        x: 416
-        y: 192
-        width: 32
-        height: 32
+        x: 424
+        y: 201
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1512,12 +1525,12 @@ TextureImporter:
       name: Archer-Green_38
       rect:
         serializedVersion: 2
-        x: 448
-        y: 192
-        width: 32
-        height: 32
+        x: 457
+        y: 201
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1534,12 +1547,12 @@ TextureImporter:
       name: Archer-Green_39
       rect:
         serializedVersion: 2
-        x: 480
-        y: 192
-        width: 32
-        height: 32
+        x: 489
+        y: 201
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1556,12 +1569,12 @@ TextureImporter:
       name: Archer-Green_40
       rect:
         serializedVersion: 2
-        x: 512
-        y: 192
-        width: 32
-        height: 32
+        x: 521
+        y: 201
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1578,12 +1591,12 @@ TextureImporter:
       name: Archer-Green_41
       rect:
         serializedVersion: 2
-        x: 544
-        y: 192
-        width: 32
-        height: 32
+        x: 553
+        y: 201
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1600,12 +1613,12 @@ TextureImporter:
       name: Archer-Green_42
       rect:
         serializedVersion: 2
-        x: 576
-        y: 192
-        width: 32
-        height: 32
+        x: 585
+        y: 201
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1622,12 +1635,12 @@ TextureImporter:
       name: Archer-Green_43
       rect:
         serializedVersion: 2
-        x: 608
-        y: 192
-        width: 32
-        height: 32
+        x: 616
+        y: 202
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1644,12 +1657,12 @@ TextureImporter:
       name: Archer-Green_44
       rect:
         serializedVersion: 2
-        x: 640
-        y: 192
-        width: 32
-        height: 32
+        x: 649
+        y: 201
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1666,12 +1679,12 @@ TextureImporter:
       name: Archer-Green_45
       rect:
         serializedVersion: 2
-        x: 672
-        y: 192
-        width: 32
-        height: 32
+        x: 681
+        y: 201
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1688,12 +1701,12 @@ TextureImporter:
       name: Archer-Green_46
       rect:
         serializedVersion: 2
-        x: 704
-        y: 192
-        width: 32
-        height: 32
+        x: 709
+        y: 201
+        width: 17
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1710,12 +1723,12 @@ TextureImporter:
       name: Archer-Green_47
       rect:
         serializedVersion: 2
-        x: 736
-        y: 192
-        width: 32
-        height: 32
+        x: 741
+        y: 201
+        width: 17
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1732,12 +1745,12 @@ TextureImporter:
       name: Archer-Green_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
-        width: 32
-        height: 32
+        x: 8
+        y: 169
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1754,12 +1767,12 @@ TextureImporter:
       name: Archer-Green_49
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160
-        width: 32
-        height: 32
+        x: 40
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1776,12 +1789,12 @@ TextureImporter:
       name: Archer-Green_50
       rect:
         serializedVersion: 2
-        x: 64
-        y: 160
-        width: 32
-        height: 32
+        x: 72
+        y: 168
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1798,12 +1811,12 @@ TextureImporter:
       name: Archer-Green_51
       rect:
         serializedVersion: 2
-        x: 96
-        y: 160
-        width: 32
-        height: 32
+        x: 104
+        y: 168
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1820,12 +1833,12 @@ TextureImporter:
       name: Archer-Green_52
       rect:
         serializedVersion: 2
-        x: 128
-        y: 160
-        width: 32
-        height: 32
+        x: 136
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1842,12 +1855,12 @@ TextureImporter:
       name: Archer-Green_53
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
-        width: 32
-        height: 32
+        x: 168
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1864,12 +1877,12 @@ TextureImporter:
       name: Archer-Green_54
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160
-        width: 32
-        height: 32
+        x: 200
+        y: 169
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1886,12 +1899,12 @@ TextureImporter:
       name: Archer-Green_55
       rect:
         serializedVersion: 2
-        x: 224
-        y: 160
-        width: 32
-        height: 32
+        x: 232
+        y: 169
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1908,12 +1921,12 @@ TextureImporter:
       name: Archer-Green_56
       rect:
         serializedVersion: 2
-        x: 256
-        y: 160
-        width: 32
-        height: 32
+        x: 264
+        y: 169
+        width: 17
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1930,12 +1943,12 @@ TextureImporter:
       name: Archer-Green_57
       rect:
         serializedVersion: 2
-        x: 288
-        y: 160
-        width: 32
-        height: 32
+        x: 296
+        y: 169
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1952,12 +1965,12 @@ TextureImporter:
       name: Archer-Green_58
       rect:
         serializedVersion: 2
-        x: 320
-        y: 160
-        width: 32
-        height: 32
+        x: 328
+        y: 169
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1974,12 +1987,12 @@ TextureImporter:
       name: Archer-Green_59
       rect:
         serializedVersion: 2
-        x: 352
-        y: 160
-        width: 32
-        height: 32
+        x: 360
+        y: 169
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1996,12 +2009,12 @@ TextureImporter:
       name: Archer-Green_60
       rect:
         serializedVersion: 2
-        x: 384
-        y: 160
-        width: 32
-        height: 32
+        x: 392
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2018,12 +2031,12 @@ TextureImporter:
       name: Archer-Green_61
       rect:
         serializedVersion: 2
-        x: 416
-        y: 160
-        width: 32
-        height: 32
+        x: 424
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2040,12 +2053,12 @@ TextureImporter:
       name: Archer-Green_62
       rect:
         serializedVersion: 2
-        x: 448
-        y: 160
-        width: 32
-        height: 32
+        x: 456
+        y: 169
+        width: 18
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2062,12 +2075,12 @@ TextureImporter:
       name: Archer-Green_63
       rect:
         serializedVersion: 2
-        x: 480
-        y: 160
-        width: 32
-        height: 32
+        x: 488
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2084,12 +2097,12 @@ TextureImporter:
       name: Archer-Green_64
       rect:
         serializedVersion: 2
-        x: 512
-        y: 160
-        width: 32
-        height: 32
+        x: 520
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2106,12 +2119,12 @@ TextureImporter:
       name: Archer-Green_65
       rect:
         serializedVersion: 2
-        x: 544
-        y: 160
-        width: 32
-        height: 32
+        x: 552
+        y: 169
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2128,12 +2141,12 @@ TextureImporter:
       name: Archer-Green_66
       rect:
         serializedVersion: 2
-        x: 576
-        y: 160
-        width: 32
-        height: 32
+        x: 584
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2150,12 +2163,12 @@ TextureImporter:
       name: Archer-Green_67
       rect:
         serializedVersion: 2
-        x: 608
-        y: 160
-        width: 32
-        height: 32
+        x: 613
+        y: 169
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2172,12 +2185,12 @@ TextureImporter:
       name: Archer-Green_68
       rect:
         serializedVersion: 2
-        x: 640
-        y: 160
-        width: 32
-        height: 32
+        x: 648
+        y: 169
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2194,12 +2207,12 @@ TextureImporter:
       name: Archer-Green_69
       rect:
         serializedVersion: 2
-        x: 672
-        y: 160
-        width: 32
-        height: 32
+        x: 680
+        y: 169
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2216,12 +2229,12 @@ TextureImporter:
       name: Archer-Green_70
       rect:
         serializedVersion: 2
-        x: 704
-        y: 160
-        width: 32
-        height: 32
+        x: 707
+        y: 166
+        width: 21
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2238,12 +2251,12 @@ TextureImporter:
       name: Archer-Green_71
       rect:
         serializedVersion: 2
-        x: 736
-        y: 160
-        width: 32
-        height: 32
+        x: 739
+        y: 168
+        width: 21
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2260,12 +2273,12 @@ TextureImporter:
       name: Archer-Green_72
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
-        width: 32
-        height: 32
+        x: 10
+        y: 137
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2282,12 +2295,12 @@ TextureImporter:
       name: Archer-Green_73
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
-        width: 32
-        height: 32
+        x: 42
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2304,12 +2317,12 @@ TextureImporter:
       name: Archer-Green_74
       rect:
         serializedVersion: 2
-        x: 64
-        y: 128
-        width: 32
-        height: 32
+        x: 73
+        y: 136
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2326,12 +2339,12 @@ TextureImporter:
       name: Archer-Green_75
       rect:
         serializedVersion: 2
-        x: 96
-        y: 128
-        width: 32
-        height: 32
+        x: 106
+        y: 136
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2348,12 +2361,12 @@ TextureImporter:
       name: Archer-Green_76
       rect:
         serializedVersion: 2
-        x: 128
-        y: 128
-        width: 32
-        height: 32
+        x: 138
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2370,12 +2383,12 @@ TextureImporter:
       name: Archer-Green_77
       rect:
         serializedVersion: 2
-        x: 160
-        y: 128
-        width: 32
-        height: 32
+        x: 170
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2392,12 +2405,12 @@ TextureImporter:
       name: Archer-Green_78
       rect:
         serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 32
+        x: 202
+        y: 137
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2414,12 +2427,12 @@ TextureImporter:
       name: Archer-Green_79
       rect:
         serializedVersion: 2
-        x: 224
-        y: 128
-        width: 32
-        height: 32
+        x: 234
+        y: 137
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2436,12 +2449,12 @@ TextureImporter:
       name: Archer-Green_80
       rect:
         serializedVersion: 2
-        x: 256
-        y: 128
-        width: 32
-        height: 32
+        x: 266
+        y: 137
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2458,12 +2471,12 @@ TextureImporter:
       name: Archer-Green_81
       rect:
         serializedVersion: 2
-        x: 288
-        y: 128
-        width: 32
-        height: 32
+        x: 298
+        y: 137
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2480,12 +2493,12 @@ TextureImporter:
       name: Archer-Green_82
       rect:
         serializedVersion: 2
-        x: 320
-        y: 128
-        width: 32
-        height: 32
+        x: 330
+        y: 137
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2502,12 +2515,12 @@ TextureImporter:
       name: Archer-Green_83
       rect:
         serializedVersion: 2
-        x: 352
-        y: 128
-        width: 32
-        height: 32
+        x: 362
+        y: 137
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2524,12 +2537,12 @@ TextureImporter:
       name: Archer-Green_84
       rect:
         serializedVersion: 2
-        x: 384
-        y: 128
-        width: 32
-        height: 32
+        x: 394
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2546,12 +2559,12 @@ TextureImporter:
       name: Archer-Green_85
       rect:
         serializedVersion: 2
-        x: 416
-        y: 128
-        width: 32
-        height: 32
+        x: 426
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2568,12 +2581,12 @@ TextureImporter:
       name: Archer-Green_86
       rect:
         serializedVersion: 2
-        x: 448
-        y: 128
-        width: 32
-        height: 32
+        x: 458
+        y: 137
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2590,12 +2603,12 @@ TextureImporter:
       name: Archer-Green_87
       rect:
         serializedVersion: 2
-        x: 480
-        y: 128
-        width: 32
-        height: 32
+        x: 490
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2612,12 +2625,12 @@ TextureImporter:
       name: Archer-Green_88
       rect:
         serializedVersion: 2
-        x: 512
-        y: 128
-        width: 32
-        height: 32
+        x: 522
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2634,12 +2647,12 @@ TextureImporter:
       name: Archer-Green_89
       rect:
         serializedVersion: 2
-        x: 544
-        y: 128
-        width: 32
-        height: 32
+        x: 554
+        y: 137
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2656,12 +2669,12 @@ TextureImporter:
       name: Archer-Green_90
       rect:
         serializedVersion: 2
-        x: 576
-        y: 128
-        width: 32
-        height: 32
+        x: 586
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2678,12 +2691,12 @@ TextureImporter:
       name: Archer-Green_91
       rect:
         serializedVersion: 2
-        x: 608
-        y: 128
-        width: 32
-        height: 32
+        x: 616
+        y: 136
+        width: 13
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2700,12 +2713,12 @@ TextureImporter:
       name: Archer-Green_92
       rect:
         serializedVersion: 2
-        x: 640
-        y: 128
-        width: 32
-        height: 32
+        x: 650
+        y: 137
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2722,12 +2735,12 @@ TextureImporter:
       name: Archer-Green_93
       rect:
         serializedVersion: 2
-        x: 672
-        y: 128
-        width: 32
-        height: 32
+        x: 682
+        y: 137
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2744,12 +2757,12 @@ TextureImporter:
       name: Archer-Green_94
       rect:
         serializedVersion: 2
-        x: 704
-        y: 128
-        width: 32
-        height: 32
+        x: 712
+        y: 131
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2766,12 +2779,12 @@ TextureImporter:
       name: Archer-Green_95
       rect:
         serializedVersion: 2
-        x: 736
-        y: 128
-        width: 32
-        height: 32
+        x: 744
+        y: 132
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2788,12 +2801,12 @@ TextureImporter:
       name: Archer-Green_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
+        x: 9
+        y: 105
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2810,12 +2823,12 @@ TextureImporter:
       name: Archer-Green_97
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 41
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2832,12 +2845,12 @@ TextureImporter:
       name: Archer-Green_98
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 74
+        y: 104
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2854,12 +2867,12 @@ TextureImporter:
       name: Archer-Green_99
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 106
+        y: 104
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2876,12 +2889,12 @@ TextureImporter:
       name: Archer-Green_100
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
-        width: 32
-        height: 32
+        x: 138
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2898,12 +2911,12 @@ TextureImporter:
       name: Archer-Green_101
       rect:
         serializedVersion: 2
-        x: 160
-        y: 96
-        width: 32
-        height: 32
+        x: 170
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2920,12 +2933,12 @@ TextureImporter:
       name: Archer-Green_102
       rect:
         serializedVersion: 2
-        x: 192
-        y: 96
-        width: 32
-        height: 32
+        x: 201
+        y: 105
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2942,12 +2955,12 @@ TextureImporter:
       name: Archer-Green_103
       rect:
         serializedVersion: 2
-        x: 224
-        y: 96
-        width: 32
-        height: 32
+        x: 234
+        y: 105
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2964,12 +2977,12 @@ TextureImporter:
       name: Archer-Green_104
       rect:
         serializedVersion: 2
-        x: 256
-        y: 96
-        width: 32
-        height: 32
+        x: 266
+        y: 105
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2986,12 +2999,12 @@ TextureImporter:
       name: Archer-Green_105
       rect:
         serializedVersion: 2
-        x: 288
-        y: 96
-        width: 32
-        height: 32
+        x: 298
+        y: 105
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3008,12 +3021,12 @@ TextureImporter:
       name: Archer-Green_106
       rect:
         serializedVersion: 2
-        x: 320
-        y: 96
-        width: 32
-        height: 32
+        x: 330
+        y: 105
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3030,12 +3043,12 @@ TextureImporter:
       name: Archer-Green_107
       rect:
         serializedVersion: 2
-        x: 352
-        y: 96
-        width: 32
-        height: 32
+        x: 362
+        y: 105
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3052,12 +3065,12 @@ TextureImporter:
       name: Archer-Green_108
       rect:
         serializedVersion: 2
-        x: 384
-        y: 96
-        width: 32
-        height: 32
+        x: 394
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3074,12 +3087,12 @@ TextureImporter:
       name: Archer-Green_109
       rect:
         serializedVersion: 2
-        x: 416
-        y: 96
-        width: 32
-        height: 32
+        x: 426
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3096,12 +3109,12 @@ TextureImporter:
       name: Archer-Green_110
       rect:
         serializedVersion: 2
-        x: 448
-        y: 96
-        width: 32
-        height: 32
+        x: 458
+        y: 105
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3118,12 +3131,12 @@ TextureImporter:
       name: Archer-Green_111
       rect:
         serializedVersion: 2
-        x: 480
-        y: 96
-        width: 32
-        height: 32
+        x: 490
+        y: 105
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3140,12 +3153,12 @@ TextureImporter:
       name: Archer-Green_112
       rect:
         serializedVersion: 2
-        x: 512
-        y: 96
-        width: 32
-        height: 32
+        x: 522
+        y: 105
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3162,12 +3175,12 @@ TextureImporter:
       name: Archer-Green_113
       rect:
         serializedVersion: 2
-        x: 544
-        y: 96
-        width: 32
-        height: 32
+        x: 554
+        y: 105
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3184,12 +3197,12 @@ TextureImporter:
       name: Archer-Green_114
       rect:
         serializedVersion: 2
-        x: 576
-        y: 96
-        width: 32
-        height: 32
+        x: 585
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3206,12 +3219,12 @@ TextureImporter:
       name: Archer-Green_115
       rect:
         serializedVersion: 2
-        x: 608
-        y: 96
-        width: 32
-        height: 32
+        x: 616
+        y: 104
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3228,12 +3241,12 @@ TextureImporter:
       name: Archer-Green_116
       rect:
         serializedVersion: 2
-        x: 640
-        y: 96
-        width: 32
-        height: 32
+        x: 648
+        y: 105
+        width: 16
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3250,12 +3263,12 @@ TextureImporter:
       name: Archer-Green_117
       rect:
         serializedVersion: 2
-        x: 672
-        y: 96
-        width: 32
-        height: 32
+        x: 681
+        y: 105
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3272,12 +3285,12 @@ TextureImporter:
       name: Archer-Green_118
       rect:
         serializedVersion: 2
-        x: 704
-        y: 96
-        width: 32
-        height: 32
+        x: 713
+        y: 98
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3294,12 +3307,12 @@ TextureImporter:
       name: Archer-Green_119
       rect:
         serializedVersion: 2
-        x: 736
-        y: 96
-        width: 32
-        height: 32
+        x: 745
+        y: 100
+        width: 14
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3316,12 +3329,12 @@ TextureImporter:
       name: Archer-Green_120
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
+        x: 9
+        y: 73
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3338,12 +3351,12 @@ TextureImporter:
       name: Archer-Green_121
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 41
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3360,12 +3373,12 @@ TextureImporter:
       name: Archer-Green_122
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 73
+        y: 72
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3382,12 +3395,12 @@ TextureImporter:
       name: Archer-Green_123
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
+        x: 105
+        y: 72
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3404,12 +3417,12 @@ TextureImporter:
       name: Archer-Green_124
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
+        x: 137
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3426,12 +3439,12 @@ TextureImporter:
       name: Archer-Green_125
       rect:
         serializedVersion: 2
-        x: 160
-        y: 64
-        width: 32
-        height: 32
+        x: 169
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3448,12 +3461,12 @@ TextureImporter:
       name: Archer-Green_126
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 32
-        height: 32
+        x: 200
+        y: 73
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3470,12 +3483,12 @@ TextureImporter:
       name: Archer-Green_127
       rect:
         serializedVersion: 2
-        x: 224
-        y: 64
-        width: 32
-        height: 32
+        x: 233
+        y: 73
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3492,12 +3505,12 @@ TextureImporter:
       name: Archer-Green_128
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 32
-        height: 32
+        x: 264
+        y: 73
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3514,12 +3527,12 @@ TextureImporter:
       name: Archer-Green_129
       rect:
         serializedVersion: 2
-        x: 288
-        y: 64
-        width: 32
-        height: 32
+        x: 296
+        y: 73
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3536,12 +3549,12 @@ TextureImporter:
       name: Archer-Green_130
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 32
-        height: 32
+        x: 328
+        y: 73
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3558,12 +3571,12 @@ TextureImporter:
       name: Archer-Green_131
       rect:
         serializedVersion: 2
-        x: 352
-        y: 64
-        width: 32
-        height: 32
+        x: 360
+        y: 73
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3580,12 +3593,12 @@ TextureImporter:
       name: Archer-Green_132
       rect:
         serializedVersion: 2
-        x: 384
-        y: 64
-        width: 32
-        height: 32
+        x: 393
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3602,12 +3615,12 @@ TextureImporter:
       name: Archer-Green_133
       rect:
         serializedVersion: 2
-        x: 416
-        y: 64
-        width: 32
-        height: 32
+        x: 425
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3624,12 +3637,12 @@ TextureImporter:
       name: Archer-Green_134
       rect:
         serializedVersion: 2
-        x: 448
-        y: 64
-        width: 32
-        height: 32
+        x: 454
+        y: 73
+        width: 16
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3646,12 +3659,12 @@ TextureImporter:
       name: Archer-Green_135
       rect:
         serializedVersion: 2
-        x: 480
-        y: 64
-        width: 32
-        height: 32
+        x: 489
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3668,12 +3681,12 @@ TextureImporter:
       name: Archer-Green_136
       rect:
         serializedVersion: 2
-        x: 512
-        y: 64
-        width: 32
-        height: 32
+        x: 521
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3690,12 +3703,12 @@ TextureImporter:
       name: Archer-Green_137
       rect:
         serializedVersion: 2
-        x: 544
-        y: 64
-        width: 32
-        height: 32
+        x: 553
+        y: 73
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3712,12 +3725,12 @@ TextureImporter:
       name: Archer-Green_138
       rect:
         serializedVersion: 2
-        x: 576
-        y: 64
-        width: 32
-        height: 32
+        x: 585
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3734,12 +3747,12 @@ TextureImporter:
       name: Archer-Green_139
       rect:
         serializedVersion: 2
-        x: 608
-        y: 64
-        width: 32
-        height: 32
+        x: 619
+        y: 72
+        width: 13
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3756,12 +3769,12 @@ TextureImporter:
       name: Archer-Green_140
       rect:
         serializedVersion: 2
-        x: 640
-        y: 64
-        width: 32
-        height: 32
+        x: 649
+        y: 73
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3778,12 +3791,12 @@ TextureImporter:
       name: Archer-Green_141
       rect:
         serializedVersion: 2
-        x: 672
-        y: 64
-        width: 32
-        height: 32
+        x: 681
+        y: 73
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3800,12 +3813,12 @@ TextureImporter:
       name: Archer-Green_142
       rect:
         serializedVersion: 2
-        x: 704
-        y: 64
-        width: 32
-        height: 32
+        x: 714
+        y: 65
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3822,12 +3835,12 @@ TextureImporter:
       name: Archer-Green_143
       rect:
         serializedVersion: 2
-        x: 736
-        y: 64
-        width: 32
-        height: 32
+        x: 746
+        y: 66
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3844,12 +3857,12 @@ TextureImporter:
       name: Archer-Green_144
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 9
+        y: 41
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3866,12 +3879,12 @@ TextureImporter:
       name: Archer-Green_145
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 41
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3888,12 +3901,12 @@ TextureImporter:
       name: Archer-Green_146
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 73
+        y: 40
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3910,12 +3923,12 @@ TextureImporter:
       name: Archer-Green_147
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
+        x: 105
+        y: 40
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3932,12 +3945,12 @@ TextureImporter:
       name: Archer-Green_148
       rect:
         serializedVersion: 2
-        x: 128
-        y: 32
-        width: 32
-        height: 32
+        x: 137
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3954,12 +3967,12 @@ TextureImporter:
       name: Archer-Green_149
       rect:
         serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
+        x: 169
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3976,12 +3989,12 @@ TextureImporter:
       name: Archer-Green_150
       rect:
         serializedVersion: 2
-        x: 192
-        y: 32
-        width: 32
-        height: 32
+        x: 200
+        y: 41
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3998,12 +4011,12 @@ TextureImporter:
       name: Archer-Green_151
       rect:
         serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
+        x: 232
+        y: 41
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4020,12 +4033,12 @@ TextureImporter:
       name: Archer-Green_152
       rect:
         serializedVersion: 2
-        x: 256
-        y: 32
-        width: 32
-        height: 32
+        x: 263
+        y: 41
+        width: 16
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4042,12 +4055,12 @@ TextureImporter:
       name: Archer-Green_153
       rect:
         serializedVersion: 2
-        x: 288
-        y: 32
-        width: 32
-        height: 32
+        x: 297
+        y: 41
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4064,12 +4077,12 @@ TextureImporter:
       name: Archer-Green_154
       rect:
         serializedVersion: 2
-        x: 320
-        y: 32
-        width: 32
-        height: 32
+        x: 328
+        y: 41
+        width: 15
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4086,12 +4099,12 @@ TextureImporter:
       name: Archer-Green_155
       rect:
         serializedVersion: 2
-        x: 352
-        y: 32
-        width: 32
-        height: 32
+        x: 360
+        y: 41
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4108,12 +4121,12 @@ TextureImporter:
       name: Archer-Green_156
       rect:
         serializedVersion: 2
-        x: 384
-        y: 32
-        width: 32
-        height: 32
+        x: 393
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4130,12 +4143,12 @@ TextureImporter:
       name: Archer-Green_157
       rect:
         serializedVersion: 2
-        x: 416
-        y: 32
-        width: 32
-        height: 32
+        x: 425
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4152,12 +4165,12 @@ TextureImporter:
       name: Archer-Green_158
       rect:
         serializedVersion: 2
-        x: 448
-        y: 32
-        width: 32
-        height: 32
+        x: 454
+        y: 41
+        width: 17
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4174,12 +4187,12 @@ TextureImporter:
       name: Archer-Green_159
       rect:
         serializedVersion: 2
-        x: 480
-        y: 32
-        width: 32
-        height: 32
+        x: 489
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4196,12 +4209,12 @@ TextureImporter:
       name: Archer-Green_160
       rect:
         serializedVersion: 2
-        x: 512
-        y: 32
-        width: 32
-        height: 32
+        x: 521
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4218,12 +4231,12 @@ TextureImporter:
       name: Archer-Green_161
       rect:
         serializedVersion: 2
-        x: 544
-        y: 32
-        width: 32
-        height: 32
+        x: 553
+        y: 41
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4240,12 +4253,12 @@ TextureImporter:
       name: Archer-Green_162
       rect:
         serializedVersion: 2
-        x: 576
-        y: 32
-        width: 32
-        height: 32
+        x: 585
+        y: 41
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4262,12 +4275,12 @@ TextureImporter:
       name: Archer-Green_163
       rect:
         serializedVersion: 2
-        x: 608
-        y: 32
-        width: 32
-        height: 32
+        x: 620
+        y: 41
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4284,12 +4297,12 @@ TextureImporter:
       name: Archer-Green_164
       rect:
         serializedVersion: 2
-        x: 640
-        y: 32
-        width: 32
-        height: 32
+        x: 649
+        y: 41
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4306,12 +4319,12 @@ TextureImporter:
       name: Archer-Green_165
       rect:
         serializedVersion: 2
-        x: 672
-        y: 32
-        width: 32
-        height: 32
+        x: 681
+        y: 41
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4328,12 +4341,12 @@ TextureImporter:
       name: Archer-Green_166
       rect:
         serializedVersion: 2
-        x: 704
-        y: 32
-        width: 32
-        height: 32
+        x: 712
+        y: 37
+        width: 21
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4350,12 +4363,12 @@ TextureImporter:
       name: Archer-Green_167
       rect:
         serializedVersion: 2
-        x: 736
-        y: 32
-        width: 32
-        height: 32
+        x: 744
+        y: 39
+        width: 21
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4372,12 +4385,12 @@ TextureImporter:
       name: Archer-Green_168
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 10
+        y: 9
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4394,12 +4407,12 @@ TextureImporter:
       name: Archer-Green_169
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 42
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4416,12 +4429,12 @@ TextureImporter:
       name: Archer-Green_170
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
+        x: 73
+        y: 8
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4438,12 +4451,12 @@ TextureImporter:
       name: Archer-Green_171
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
+        x: 106
+        y: 8
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4460,12 +4473,12 @@ TextureImporter:
       name: Archer-Green_172
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 32
-        height: 32
+        x: 138
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4482,12 +4495,12 @@ TextureImporter:
       name: Archer-Green_173
       rect:
         serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
+        x: 170
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4504,12 +4517,12 @@ TextureImporter:
       name: Archer-Green_174
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 32
-        height: 32
+        x: 200
+        y: 9
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4526,12 +4539,12 @@ TextureImporter:
       name: Archer-Green_175
       rect:
         serializedVersion: 2
-        x: 224
-        y: 0
-        width: 32
-        height: 32
+        x: 233
+        y: 9
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4548,12 +4561,12 @@ TextureImporter:
       name: Archer-Green_176
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 32
-        height: 32
+        x: 265
+        y: 9
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4570,12 +4583,12 @@ TextureImporter:
       name: Archer-Green_177
       rect:
         serializedVersion: 2
-        x: 288
-        y: 0
-        width: 32
-        height: 32
+        x: 296
+        y: 8
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4592,12 +4605,12 @@ TextureImporter:
       name: Archer-Green_178
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
-        width: 32
-        height: 32
+        x: 328
+        y: 8
+        width: 14
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4614,12 +4627,12 @@ TextureImporter:
       name: Archer-Green_179
       rect:
         serializedVersion: 2
-        x: 352
-        y: 0
-        width: 32
-        height: 32
+        x: 360
+        y: 8
+        width: 14
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4636,12 +4649,12 @@ TextureImporter:
       name: Archer-Green_180
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 32
-        height: 32
+        x: 394
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4658,12 +4671,12 @@ TextureImporter:
       name: Archer-Green_181
       rect:
         serializedVersion: 2
-        x: 416
-        y: 0
-        width: 32
-        height: 32
+        x: 426
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4680,12 +4693,12 @@ TextureImporter:
       name: Archer-Green_182
       rect:
         serializedVersion: 2
-        x: 448
-        y: 0
-        width: 32
-        height: 32
+        x: 455
+        y: 8
+        width: 15
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4702,12 +4715,12 @@ TextureImporter:
       name: Archer-Green_183
       rect:
         serializedVersion: 2
-        x: 480
-        y: 0
-        width: 32
-        height: 32
+        x: 490
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4724,12 +4737,12 @@ TextureImporter:
       name: Archer-Green_184
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 32
-        height: 32
+        x: 522
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4746,12 +4759,12 @@ TextureImporter:
       name: Archer-Green_185
       rect:
         serializedVersion: 2
-        x: 544
-        y: 0
-        width: 32
-        height: 32
+        x: 554
+        y: 9
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4768,12 +4781,12 @@ TextureImporter:
       name: Archer-Green_186
       rect:
         serializedVersion: 2
-        x: 576
-        y: 0
-        width: 32
-        height: 32
+        x: 586
+        y: 9
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4790,12 +4803,12 @@ TextureImporter:
       name: Archer-Green_187
       rect:
         serializedVersion: 2
-        x: 608
-        y: 0
-        width: 32
-        height: 32
+        x: 619
+        y: 10
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4812,12 +4825,12 @@ TextureImporter:
       name: Archer-Green_188
       rect:
         serializedVersion: 2
-        x: 640
-        y: 0
-        width: 32
-        height: 32
+        x: 650
+        y: 9
+        width: 13
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4834,12 +4847,12 @@ TextureImporter:
       name: Archer-Green_189
       rect:
         serializedVersion: 2
-        x: 672
-        y: 0
-        width: 32
-        height: 32
+        x: 682
+        y: 9
+        width: 12
+        height: 19
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4856,12 +4869,12 @@ TextureImporter:
       name: Archer-Green_190
       rect:
         serializedVersion: 2
-        x: 704
-        y: 0
-        width: 32
-        height: 32
+        x: 714
+        y: 9
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4878,12 +4891,12 @@ TextureImporter:
       name: Archer-Green_191
       rect:
         serializedVersion: 2
-        x: 736
-        y: 0
-        width: 32
-        height: 32
+        x: 746
+        y: 9
+        width: 14
+        height: 20
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

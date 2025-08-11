@@ -1,12 +1,12 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class MovimientoJugador : MonoBehaviour
+public class jugadormovimiento : MonoBehaviour
 {
     public float velocidad = 5f;
     private Rigidbody2D rb;
     private Vector2 entrada;
-    
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,7 +19,8 @@ public class MovimientoJugador : MonoBehaviour
         rb.linearVelocity = entrada * velocidad;
     }
 
-    public void Moverse(InputAction.CallbackContext contexto){
+    public void Moverse(InputAction.CallbackContext contexto)
+    {
         entrada = contexto.ReadValue<Vector2>();
     }
 
